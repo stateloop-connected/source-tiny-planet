@@ -1,0 +1,14 @@
+{
+  "build_script": "tsc --noEmit && vite build",
+  "gameplay_or_asset_changes": false,
+  "lockfile": "pnpm-lock.yaml",
+  "mode": "native_source_build",
+  "repository": "StarKnightt/tiny-planet",
+  "schema_version": 1,
+  "source_changes": [
+    ".packaging/plan.json"
+  ],
+  "status": "ready",
+  "upstream_code_executed_locally": false,
+  "upstream_sha": "5c3abfeaa6e170eefb2dd8b232072092433c77ea"
+}
